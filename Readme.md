@@ -1,4 +1,9 @@
-The built-in CSS will be replaced after update / reinstall, DO NOT MODIFY THEM.
+## How to Use
 
-Reffer https://support.typora.io/Add-Custom-CSS/ when you want to modify those CSS.
-Reffer https://support.typora.io/About-Themes/ if you want to create / install new themes. 
+Open preference panel, and click a button named “Open Theme Folder” under section “Appearance”, would open Typora’s theme folder in Finder/Explorer.
+
+You would add your custom theme here. If you want to find, install or write themes see the [About Themes page](https://support.typora.io/About-Themes)
+
+But sometimes, you may only want to modify CSS like changing font or increase writing area, and apply it to all themes or current theme without writing a whole new theme file, this document will show you how-to.
+
+<iframe src="https://typora.io/img/beta.mp4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
